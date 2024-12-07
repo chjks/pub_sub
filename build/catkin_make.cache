@@ -1,0 +1,2 @@
+pub_sub_example
+-DCATKIN_DEVEL_PREFIX=/home/ckguswls/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ckguswls/catkin_ws/install -G Unix Makefiles
